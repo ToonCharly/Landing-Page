@@ -14,7 +14,7 @@ Dogzline es una plataforma innovadora diseñada para conectar a dueños de perro
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Framework (opcional, si usas uno como Bootstrap o TailwindCSS)**
+- **Framework Vue
 
 ## 📦 Instalación
 1. Clona el repositorio:
@@ -29,7 +29,7 @@ Dogzline es una plataforma innovadora diseñada para conectar a dueños de perro
 
 ## ✨ Características
 - Diseño atractivo y responsive.
-- Información detallada sobre la app.
+- Información sobre la app.
 - Sección de registro para usuarios interesados.
 - Integración con redes sociales.
 
@@ -46,9 +46,5 @@ Si deseas contribuir, sigue estos pasos:
 
 ## 📄 Licencia
 Este proyecto está bajo la licencia **MIT**.
-
-## 📧 Contacto
-Si tienes alguna pregunta o sugerencia, contáctanos en **[tuemail@example.com](mailto:tuemail@example.com)** o visita nuestra web oficial.
-
----
+--- --- --- --- --- --- --- --- --- --- ---
 ¡Gracias por apoyar Dogzline! 🐶❤️
