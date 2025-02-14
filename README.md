@@ -1,50 +1,64 @@
-# Dogzline - Landing Page
+# Vuetify Landing Page Template
 
-Bienvenido al repositorio de la landing page de **Dogzline**, la aplicación que ayuda a los perros a encontrar pareja.
+#### This is an example of a landing page built with vue and vuetify.
 
-## 🚀 Descripción
-Dogzline es una plataforma innovadora diseñada para conectar a dueños de perros que buscan compañeros ideales para sus mascotas. La landing page presenta la aplicación, sus beneficios y cómo unirse a la comunidad.
+## 🚀 Project setup
 
-## 📸 Capturas de Pantalla
-![Captura de pantalla 2025-02-06 190140](https://github.com/user-attachments/assets/57184b6a-c969-40c2-b18d-5b3a52fe6c3c)
+Use [git](https://git-scm.com/) to clone the project.
 
+```bash
+git clone https://github.com/anmspro/stoic-solutions-landing-website.git
+```
 
+Enter the project.
 
-## 🛠️ Tecnologías Utilizadas
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **Framework Vue
+```bash
+cd vuetify-landing-page
+```
 
-## 📦 Instalación
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/dogzline-landing.git
-   ```
-2. Accede al directorio del proyecto:
-   ```bash
-   cd dogzline-landing
-   ```
-3. Abre el archivo `index.html` en tu navegador.
+Use [npm](https://www.npmjs.com/) to install dependencies.
 
-## ✨ Características
-- Diseño atractivo y responsive.
-- Información sobre la app.
-- Sección de registro para usuarios interesados.
-- Integración con redes sociales.
+```bash
+npm i
+```
 
-## 📌 Próximos Mejoras
-- Agregar animaciones para mejorar la experiencia de usuario.
-- Incluir testimonios de usuarios.
-- Optimización SEO para mayor visibilidad.
+## ☄️ Usage
 
-## 🤝 Contribuciones
-Si deseas contribuir, sigue estos pasos:
-1. Haz un fork del repositorio.
-2. Crea una nueva rama con una mejora o corrección de errores.
-3. Realiza un pull request para revisión.
+Compiles and hot-reloads for development
 
-## 📄 Licencia
-Este proyecto está bajo la licencia **MIT**.
---- --- --- --- --- --- --- --- --- --- ---
-¡Gracias por apoyar Dogzline! 🐶❤️
+```bash
+npm run serve
+```
+
+Compiles and minifies for production
+
+```bash
+npm run build
+```
+
+![Demo](src/assets/img/ss-fullpage.png)
+
+### 🛠️ Technologies
+
+The following tools were used in the construction of the project:
+
+- [Vue.js](https://vuejs.org/)
+- [Vuetify.js](https://vuetifyjs.com/)
+- [Firebase](https://firebase.google.com/)
+
+## ⚖️ Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## 👷‍♂️ Author
+
+<a href="https://github.com/anmspro">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/33668152?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Abu Noman Md Sakib</b></sub></a> <a href="https://github.com/anmspro" title="Github">🚀</a>
+
+## 🔑 License
+
+[MIT](https://github.com/anmspro/stoic-solutions-landing-website/blob/master/LICENSE)

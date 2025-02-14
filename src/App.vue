@@ -5,7 +5,7 @@
       <home />
       <about />
       <download />
-      <!-- <pricing /> -->
+      <team />
       <contact />
     </v-main>
     <v-scale-transition>
@@ -43,6 +43,7 @@ import home from "./components/HomeSection";
 import about from "./components/AboutSection";
 import download from "./components/DownloadSection";
 import pricing from "./components/PricingSection";
+import team from "./components/Team";
 import contact from "./components/ContactSection";
 
 export default {
@@ -56,6 +57,7 @@ export default {
     download,
     pricing,
     contact,
+    team,
   },
 
   data: () => ({
